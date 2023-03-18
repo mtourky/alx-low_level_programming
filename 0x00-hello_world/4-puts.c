@@ -1,10 +1,9 @@
 #include <stdio.h>
-
 /**
-* main - Entry point
-* echo statment
-* return 0
-*/
+ * main - Entry point
+ * echo statment
+ * Return: Always 0 (Sucess)
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle\n");
