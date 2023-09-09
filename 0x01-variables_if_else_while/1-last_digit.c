@@ -2,10 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main entry point
+ * main - entry point
  *
- * Description: main function to check the last number against some rules 
- * Return: 0
+ * Description: function generates a random number and checks the last digit
+ * against specific rules.
+ * Return:0
  */
 int main(void)
 {
