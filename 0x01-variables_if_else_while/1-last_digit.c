@@ -4,10 +4,7 @@
 /**
  * main entry point
  *
- * Description: function to check the last number
- * against some rules if it  the last digit of n is greater than 5: the string and is greater than 5
- * if the last digit of n is 0: the string and is 0
- * if the last digit of n is less than 6 and not 0: the string and is less than 6 and not 0
+ * Description: main function to check the last number against some rules 
  * Return: 0
  */
 int main(void)
