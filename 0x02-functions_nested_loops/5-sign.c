@@ -1,9 +1,10 @@
 #include "main.h"
+
 /**
-* Description: print_sign - print + , 0 , - depend on values
-* @c: single character
-* Return: 1 , 0 , -1
-*/
+ * Description: print_sign - print + , 0 , - depend on values
+ * @n: single character
+ * Return: 1 , 0 , -1
+ */
 
 int print_sign(int n)
 {
